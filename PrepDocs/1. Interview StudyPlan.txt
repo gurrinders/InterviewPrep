@@ -1,0 +1,11 @@
+Core Java
+MultiThreadingConcurrency
+DesignPatterns
+Spring (with various flavors)
+Database : SQL, NoSQL
+BigData : Hadoop
+Kafka, Spark
+System Design
+DSnAlgo
+AWS, Azure, GCP
+Docker. Kubernetis
